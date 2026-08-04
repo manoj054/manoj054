@@ -31,8 +31,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoj054&show_icons=true&theme=tokyonight)
+<h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Developer;React+Developer;FastAPI+Developer;Open+Source+Learner" />
+</p>
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=manoj054&theme=tokyonight)
