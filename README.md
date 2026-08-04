@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manoj Kumar
+# Hi 👋, I'm Manoj Kumar Sunku
 
 ### 🚀 Python Developer | React Developer | FastAPI Enthusiast | Full Stack Learner
 
@@ -48,23 +48,11 @@
 
 ---
 
-# 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manoj054&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj054&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=manoj054&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=manoj054&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
