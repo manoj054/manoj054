@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Manoj Kumar Sunku
 
-<!--
-**manoj054/manoj054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 Learning Full Stack Development
+- 🚀 Interested in React, FastAPI and Python
+- 📚 Currently improving JavaScript skills
+- 💼 Looking for Software Developer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- FastAPI
+- SQL
+- Git & GitHub
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/manoj054
+- LinkedIn: Your LinkedIn URL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manoj054&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manoj054&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj054&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=manoj054&color=blue)
