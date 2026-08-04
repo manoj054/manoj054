@@ -51,11 +51,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manoj054&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj054&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj054&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
